@@ -37,14 +37,6 @@ Busco minha primeira oportunidade como desenvolvedor front-end, onde eu possa ap
 
 ---
 
-## 📊 Estatísticas
-
-![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanavs\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanavs\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)
